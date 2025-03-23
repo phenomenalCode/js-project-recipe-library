@@ -1,2 +1,2 @@
 # js-project-recipe-library
-https://github.com/phenomenalCode/js-project-recipe-library.git
+https://github.com/phenomenalCode/js-project-recipe-library
